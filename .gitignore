@@ -1,0 +1,15 @@
+*.gitignore
+*.iml
+*.xml
+cmake-build-debug/.cmake/api/v1/query/cache-v2
+cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1
+cmake-build-debug/.cmake/api/v1/query/codemodel-v2
+cmake-build-debug/.cmake/api/v1/query/toolchains-v1
+*.cmake
+*.txt
+*.bin
+*.exe
+*.c
+*.cpp
+*.check_cache
+*.log

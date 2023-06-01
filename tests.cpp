@@ -1,3 +1,8 @@
+/*
+ This file is part of the C++ CmdParser utility.
+ Copyright (c) 2023 - 2023 FoxAlcera and Black Fire Studio
+ */
+
 #define CATCH_CONFIG_MAIN
 #include "catch.hpp"
 #include "cmdparser.hpp"
